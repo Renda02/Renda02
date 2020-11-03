@@ -10,9 +10,9 @@
   <p>- 📫 How to reach me:<a href="mailto:rluvhengo@gmail.com">Send email</a></p>
 <hr/>
 <h2>Projects Demo</h2>
-<a src="https://heuristic-kilby-a7fe7c.netlify.app">Weather App</a>
+<a href="https://heuristic-kilby-a7fe7c.netlify.app">Weather App</a>
 <br/>
-<a src="https://infallible-jackson-4be24d.netlify.app">Covid-Tracker</a>
+<a href="https://infallible-jackson-4be24d.netlify.app">Covid-Tracker</a>
 
 <!--
 **Renda02/Renda02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
