@@ -1,18 +1,15 @@
-### Hi there 👋
+### Hi there 👋 , I'm Rendani.
 
-<span>My name is Rendani</span>
-<br/>
+- 🔭 I’m currently working on my  technical writing portfolio.
+- 🌱 I’m currently learning API docs and tools. 
+- 👯 I’m looking to collaborate on open-source focused of software documentation especially API docs.
+- 📫 How to reach me: <a href="mailto:rluvhengo@gmail.com">Send email</a>
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Nina Simone is my all time favorite artist and I do painting.
 
-<p>😄 Pronouns: <b color="red">she/her</b></p>
-  <br/>
-  <p>🌱 I’m currently learning React.</p>
-  <br/>
-  <p>- 📫 How to reach me:<a href="mailto:rluvhengo@gmail.com">Send email</a></p>
-<hr/>
-<h2>Projects Demo</h2>
-<a href="https://heuristic-kilby-a7fe7c.netlify.app">Weather App</a>
-<br/>
-<a href="https://infallible-jackson-4be24d.netlify.app">Covid-Tracker</a>
+
+## Projects Demo 
+- Coming soon!!!
 
 <!--
 **Renda02/Renda02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
