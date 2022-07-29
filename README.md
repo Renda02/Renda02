@@ -1,11 +1,15 @@
-### Hi there 👋 , I'm Rendani.
+## Hi there 👋 , I'm Rendani.
+
+A Technical writer with over 2 years experience in software development. 
+
+
 
 - 🔭 I’m currently learning API docs and utilizing Swagger.
-- 🌱 Lokking forward to learning dev docs  such as SDK's and CLI. 
-- 👯 
+- 🌱 Looking forward to learning dev docs such as SDK's and . 
 - 📫 How to reach me: <a href="mailto:rluvhengo@gmail.com">Send email</a>
+- 🌍 Based in Huelva,Spain.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Nina Simone is my all time favorite artist and I do painting.
+- ⚡ Fun fact: Nina Simone is my all time favorite artist and I love painting.
 
 
 ## See my most recent writing sample  
