@@ -1,15 +1,15 @@
 ### Hi there 👋 , I'm Rendani.
 
-- 🔭 I’m currently working on my  technical writing portfolio.
-- 🌱 I’m currently learning API docs and tools. 
-- 👯 I’m looking to collaborate on open-source focused of software documentation especially API docs.
+- 🔭 I’m currently learning API docs and utilizing Swagger.
+- 🌱 Lokking forward to learning dev docs  such as SDK's and CLI. 
+- 👯 
 - 📫 How to reach me: <a href="mailto:rluvhengo@gmail.com">Send email</a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Nina Simone is my all time favorite artist and I do painting.
 
 
-## Projects Demo 
-- Coming soon!!!
+## See my most recent writing sample  
+- 
 
 <!--
 **Renda02/Renda02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
