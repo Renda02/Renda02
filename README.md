@@ -12,7 +12,7 @@ A Technical writer with over 2 years experience in software development. I am pa
 
 ## See my most recent writing sample  
 
-- <a href="https://github.com/Renda02/Tutorial-Create-simple-navigation-with-HTML-and-CSS">Tutorial : https://github.com/Renda02/Tutorial-Create-simple-navigation-with-HTML-and-CSS</a>.
+- <a href="https://github.com/Renda02/Tutorial-Create-simple-navigation-with-HTML-and-CSS">Tutorial : Create-Basic-Navigation-with-HTML-and-CSS</a>.
 - <a href="https://github.com/Renda02/Tutorial-API-Testing-with-Postman">Tutorial : API Testing with Postman</a>.
 - <a href="https://github.com/Renda02/Web-Perfomance-Core-Web-Vitals">Web Performance: Core Web Vitals </a>.
 - <a href="https://github.com/Renda02/Newsletter-Improvement-">Microcopy :Newsletter improment </a>.
