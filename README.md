@@ -4,7 +4,7 @@ A Technical writer with over 2 years experience in software development. I am pa
 
 - 🔭 I’m currently learning API docs and OPENAPI.
 - 👯 I’m looking to collaborate on open-source projects.
-- 🌱 I'm looking to learn more about developer docs such as SDK's . 
+- 🌱 I'm looking to learn more about developer docs and Technical illustration . 
 - 📫 How to reach me: <a href="mailto:rluvhengo@gmail.com">Send email</a>
 - 🌍 Based in Huelva,Spain.
 - 😄 Pronouns: she/her
