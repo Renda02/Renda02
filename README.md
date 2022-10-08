@@ -1,6 +1,6 @@
 ## Hi there 👋 , I'm Rendani.
 
-A Technical writer with over 2 years experience in software development. I am passionate about audience-centric documetation.
+I am a technical writer with over two years of software development experience; before that, I was in Quality Management for over three years. I am passionate about audience-centric documentation
 
 - 🔭 I’m currently learning API docs and OPENAPI.
 - 👯 I’m looking to collaborate on open-source projects.
