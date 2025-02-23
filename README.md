@@ -1,14 +1,14 @@
 ## Hi there 👋 , I'm Rendani.
 
-I am a technical writer with over two years of software development experience; before that, I was in Quality Management for over three years. I am passionate about audience-centric documentation
+I'm a technical writer with over two years of experience based in Madrid, focused on developer documentation and APIs. I'm passionate about improving documentation processes and am a strong advocate for docs-as-code approaches. Most recently, I led an end-to-end documentation migration from Confluence to GitBook.
 
-- 🔭 I’m currently learning API docs and OPENAPI.
-- 👯 I’m looking to collaborate on open-source projects.
-- 🌱 I'm looking to learn more about developer docs and Technical illustration . 
+### Current Focus
+
+- 🔭  Learning GitHub Actions workflows
+- 👯 Developing a POS API developer portal
+- 🌱 Exploring docs operations and AI applications in technical writing
 - 📫 How to reach me: <a href="mailto:rluvhengo@gmail.com">Send email</a>
-- 🌍 Based in Huelva,Spain.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Nina Simone is my all time favorite artist and I love painting.
+- ⚡ Fun fact: Nina Simone is my all-time favorite artist and I love painting.
 
 ## See my most recent writing sample  
 
