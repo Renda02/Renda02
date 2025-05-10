@@ -14,10 +14,7 @@ I'm a technical writer with over two years of experience based in Madrid, focuse
 
 ## See my most recent writing sample  
 
-- <a href="https://github.com/Renda02/Tutorial-Create-simple-navigation-with-HTML-and-CSS">Tutorial : Create-Basic-Navigation-with-HTML-and-CSS</a>.
-- <a href="https://github.com/Renda02/Tutorial-API-Testing-with-Postman">Tutorial : API Testing with Postman</a>.
-- <a href="https://github.com/Renda02/Web-Perfomance-Core-Web-Vitals">Web Performance: Core Web Vitals </a>.
-- <a href="https://github.com/Renda02/Newsletter-Improvement-"> UI Text :Newsletter improvement </a>.
+- <a href="[https://github.com/Renda02/openai-recipe-generator">Tutorial : AI recipe generator using OpenAI API</a>.
 
 
 <!--
