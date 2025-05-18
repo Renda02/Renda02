@@ -15,6 +15,7 @@ I'm a technical writer with over two years of experience based in Madrid, focuse
 ## See my most recent writing sample  
 
 - <a href="https://github.com/Renda02/openai-recipe-generator">Tutorial: AI recipe generator using OpenAI API</a>.
+- <a href="https://github.com/Renda02/streamlit-tech-writing-101">Tutorial: Tech writing assistant using Streamlit and OpenAI API</a>
 
 
 <!--
